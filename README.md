@@ -12,7 +12,7 @@
 
 ## Contacto
 ¡No dudes en contactarme! Puedes encontrarme en:
-- [LinkedIn](www.linkedin.com/in/elias-sebastian-agustin-andino-9286a12b2)
+- [LinkedIn](https://www.linkedin.com/in/elias-sebastian-agustin-andino-9286a12b2)
 
 ¡Gracias por visitar mi perfil!
 <!---
