@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub! Me gustaria colaborar en proyectos interesantes.
 
 ## Sobre mí
-- 🎓 Sigo cerciendo en el uso de Spring Boot !.
+- 🎓 Sigo creciendo en el uso de Spring Boot !.
 - 💼 Acualmente estoy en busca de trabajo.
 - 💻 Me encanta trabajar con Java - Spring Boot.
 
