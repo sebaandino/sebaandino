@@ -3,9 +3,10 @@
 ¡Bienvenido a mi perfil de GitHub! Me gustaria colaborar en proyectos interesantes.
 
 ## Sobre mí
-- 🎓 Sigo creciendo en el uso de Spring Boot !.
+- 🎓 Sigo creciendo en el uso de Java , utilizando Spring Boot y SpringBoot Security!.
+.También adquiriendo experiencia utilizando Astro 🚀 para el front-end implementando el uso de Tailwind para los estilos.
 - 💼 Acualmente estoy en busca de trabajo.
-- 💻 Me encanta trabajar con Java - Spring Boot.
+- 💻 Me encanta trabajar en back y en front.
 
 ## Mis Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sebaandino&show_icons=true&theme=radical)
